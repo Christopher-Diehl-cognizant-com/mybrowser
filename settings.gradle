@@ -1,0 +1,8 @@
+rootProject.name = 'mybrowser'
+
+include ':anchor'
+include ':folder'
+include ':login_password'
+include ':registration'
+include ':database'
+

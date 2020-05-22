@@ -1,0 +1,15 @@
+package cld71.work.cognizant.demo.mybrowser.anchor;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.cloud.openfeign.EnableFeignClients;
+
+@SpringBootApplication
+//@EnableFeignClients
+public class App{
+
+	public static void main(String[] args){
+		SpringApplication.run(App.class, args);
+	}
+
+}
